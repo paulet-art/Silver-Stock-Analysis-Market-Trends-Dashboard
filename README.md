@@ -1,4 +1,6 @@
 # 💎 Silver Stock Analysis & Market Trends Dashboard
+<img width="1051" height="662" alt="image" src="https://github.com/user-attachments/assets/5fa5b365-9511-4a27-b328-bbb77f1fdb88" />
+
 
 ## Overview
 This project explores historical silver stock prices using **daily trading data**, providing insights into price trends, market volatility, and trading activity. The analysis is implemented in **Power BI**, combining interactive visuals and KPIs to deliver a **user-friendly dashboard** for investors, analysts, and enthusiasts.
